@@ -8,7 +8,7 @@
 >
 > 需先运行服务端在运行客户端
 
-![说明P1](READMEimg\说明P1.png)
+![说明P1](https://github.com/TheStrongmans/projectlibrarys/edit/main/%E5%A4%9A%E7%94%A8%E6%88%B7%E5%8D%B3%E6%97%B6%E9%80%9A%E8%AE%AF%E7%B3%BB%E7%BB%9F/READMEimg\说明P1.png)
 
 > 服务端运行
 
