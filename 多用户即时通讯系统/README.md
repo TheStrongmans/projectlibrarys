@@ -47,7 +47,7 @@
 
 #### 服务端
 
-![客户端P1](READMEimg\服务端P1.png)
+![客户端P1](https://github.com/TheStrongmans/projectlibrarys/blob/main/%E5%A4%9A%E7%94%A8%E6%88%B7%E5%8D%B3%E6%97%B6%E9%80%9A%E8%AE%AF%E7%B3%BB%E7%BB%9F/READMEimg/%E5%AE%A2%E6%88%B7%E7%AB%AFP1.png)
 
 - 推送消息(推送给所有用户)
 - 关闭服务器
