@@ -1,0 +1,22 @@
+{
+"pageNum":1,    (第几页)
+"pageSize":10,   （每页显示多少条数据）
+"size":10,       （条数）
+"startRow":1,    （展示在页面的是从第一行开始）
+"endRow":10,（展示在页面的是到第十行结束）
+"total":11,  （从数据库中查询的总记录数11条）
+"pages":2,   （分页的总数为两页）
+"list":（当前页要展示的数据）
+[{"birthday":439833600000,"userPassword":"0000000","address":"北京市东城区前门东大街9号","gender":2,"phone":"13688884457","createdBy":1,"id":2,"userName":"李明","userRole":2,"userCode":"liming"},{"birthday":455212800000,"userPassword":"0000000","address":"北京市朝阳区北辰中心12号","gender":2,"phone":"18567542321","createdBy":1,"id":5,"userName":"韩路彪","userRole":2,"creationDate":1420026729000,"userCode":"hanlubiao"},{"birthday":424454400000,"userPassword":"0000000","address":"北京市海淀区学院路61号","gender":1,"phone":"13544561111","createdBy":1,"id":6,"userName":"张华","userRole":3,"creationDate":1360551077000,"userCode":"zhanghua"},{"birthday":410112000000,"userPassword":"0000000","address":"北京市海淀区西二旗辉煌国际16层","gender":2,"phone":"13444561124","createdBy":1,"id":7,"userName":"王洋","userRole":3,"creationDate":1402484947000,"userCode":"wangyang"},{"birthday":510508800000,"userPassword":"0000000","address":"北京市海淀区回龙观小区10号楼","gender":1,"phone":"18098764545","createdBy":1,"id":8,"userName":"赵燕","userRole":3,"creationDate":1461218047000,"userCode":"zhaoyan"},{"birthday":347385600000,"userPassword":"0000000","address":"北京市朝阳区管庄新月小区12楼","gender":2,"phone":"13387676765","createdBy":1,"id":10,"userName":"孙磊","userRole":3,"creationDate":1430880727000,"userCode":"sunlei"},{"birthday":258480000000,"userPassword":"0000000","address":"北京市朝阳区建国门南大街10号","gender":2,"phone":"13367890900","createdBy":1,"id":11,"userName":"孙兴","userRole":3,"creationDate":1478681477000,"userCode":"sunxing"},{"birthday":512323200000,"modifyBy":1,"userPassword":"0000000","address":"朝阳区管庄路口北柏林爱乐三期13号楼","gender":1,"modifyDate":1460614536000,"userName":"张晨","creationDate":1470693157000,"userCode":"zhangchen","phone":"18098765434","createdBy":1,"id":12,"userRole":3},{"birthday":373651200000,"userPassword":"0000000","address":"北京市海淀区北航家属院10号楼","gender":2,"phone":"13689674534","createdBy":1,"id":13,"userName":"邓超","userRole":3,"creationDate":1468195367000,"userCode":"dengchao"},{"birthday":315504000000,"userPassword":"0000000","address":"北京市朝阳区北苑家园茉莉园20号楼","gender":2,"phone":"13388886623","createdBy":1,"id":14,"userName":"杨过","userRole":3,"creationDate":1422733927000,"userCode":"yangguo"}],
+"prePage":0,（上一页的页码为0）
+"nextPage":2,（下一页的页码为2）
+"isFirstPage":true,（当前页码为第一页）
+"isLastPage":false,（当前页码是否为最后一页）
+"hasPreviousPage":false,（判断是否有上一页）
+"hasNextPage":true,（判断是否有下一页）
+"navigatePages":8,
+"navigatepageNums":[1,2],（页码数组）
+"navigateFirstPage":1,（获得第一页的页码）
+"navigateLastPage":2,（获得最后一页的页码）
+"firstPage":1,
+"lastPage":2}
