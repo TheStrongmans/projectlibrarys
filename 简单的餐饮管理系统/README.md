@@ -4,7 +4,7 @@
 
 > 没有UI界面，即在控制台显示
 > 
-> 开发环境：jdk8，mysql8.0.23   eclipse
+> 开发环境：jdk8  eclipse，mysql8.0.23  
 
 ### 使用技术：
 
@@ -30,7 +30,7 @@
 
   ![登录](img\登录.png)
 
-  ![页面](img\页面.png)
+  https://github.com/TheStrongmans/projectlibrarys/blob/main/%E7%AE%80%E5%8D%95%E7%9A%84%E9%A4%90%E9%A5%AE%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/img/%E9%A1%B5%E9%9D%A2.png
 
 - 显示餐桌状态
 
