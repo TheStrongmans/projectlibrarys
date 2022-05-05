@@ -27,10 +27,9 @@
 ### 实现功能
 
 - 登录
+  ![登录](https://github.com/TheStrongmans/projectlibrarys/blob/main/%E7%AE%80%E5%8D%95%E7%9A%84%E9%A4%90%E9%A5%AE%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/img/%E7%99%BB%E5%BD%95.png)
+  ![登录](https://github.com/TheStrongmans/projectlibrarys/blob/main/%E7%AE%80%E5%8D%95%E7%9A%84%E9%A4%90%E9%A5%AE%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/img/%E9%A1%B5%E9%9D%A2.png)
 
-  ![登录](img\登录.png)
-
-  https://github.com/TheStrongmans/projectlibrarys/blob/main/%E7%AE%80%E5%8D%95%E7%9A%84%E9%A4%90%E9%A5%AE%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/img/%E9%A1%B5%E9%9D%A2.png
 
 - 显示餐桌状态
 
