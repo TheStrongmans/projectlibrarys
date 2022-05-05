@@ -43,19 +43,19 @@
 
 - 显示所有菜品
 
-  ![菜品](img\菜品.png)
+  ![菜品](https://github.com/TheStrongmans/projectlibrarys/blob/main/%E7%AE%80%E5%8D%95%E7%9A%84%E9%A4%90%E9%A5%AE%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/img/菜品.png)
 
 - 点餐
 
-  ![点餐](img\点餐.png)
+  ![点餐](https://github.com/TheStrongmans/projectlibrarys/blob/main/%E7%AE%80%E5%8D%95%E7%9A%84%E9%A4%90%E9%A5%AE%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/img/点餐.png)
 
 - 查看账单
 
-  ![查看账单](img\查看账单.png)
+  ![查看账单](https://github.com/TheStrongmans/projectlibrarys/blob/main/%E7%AE%80%E5%8D%95%E7%9A%84%E9%A4%90%E9%A5%AE%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/img/查看账单.png)
 
 - 结账
 
-  ![结账1](img\结账1.png)
+  ![结账1](https://github.com/TheStrongmans/projectlibrarys/blob/main/%E7%AE%80%E5%8D%95%E7%9A%84%E9%A4%90%E9%A5%AE%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/img/结账1.png)
 
 
 
